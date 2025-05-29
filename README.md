@@ -1,6 +1,6 @@
 ## Hi there, I'm Isaiah 👋
 
-### About Me :
+### 💬 About Me :
 I am a full stack developer from Missouri.
 
 ---
@@ -13,7 +13,11 @@ I am a full stack developer from Missouri.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ijshd7&theme=dark&background=000000)](https://git.io/streak-stats)
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijshd7&theme=dark&background=000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&theme=tokyonight&count_private=true)
 
