@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Isaiah 👋
 
-### 📊 GitHub Stats
 ![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&theme=tokyonight)
 
 <!--
