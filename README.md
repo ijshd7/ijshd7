@@ -56,7 +56,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijshd7&theme=dark&background=000000&count_private=true)](https://github.com/ijshd7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijshd7&theme=dark&background=000000&count_private=true&cache_seconds=1800)](https://github.com/ijshd7/github-readme-stats)
 
 ---
 
