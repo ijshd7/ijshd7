@@ -3,9 +3,13 @@
 ### About Me :
 I am a full stack developer from Missouri.
 
+---
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" alt="NuxtJS" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ijshd7&theme=dark&background=000000)](https://git.io/streak-stats)
 
