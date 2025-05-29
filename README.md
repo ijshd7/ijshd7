@@ -4,7 +4,7 @@
 
 💬 I am a full stack developer from Missouri.
 
-⚙ Preferred tech stack: Vue || React, Express/Node || Django/Python, SQL || PostgreSQL
+⚙ Preferred tech stack: Vue & React, Express/Node & Django/Python, SQL & PostgreSQL
 
 ---
 
