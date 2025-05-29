@@ -1,7 +1,8 @@
 ## Hi there, I'm Isaiah 👋
 
-### 💬 About Me :
-I am a full stack developer from Missouri.
+### About Me :
+
+💬 I am a full stack developer from Missouri.
 
 ⚙ Preferred tech stack: Vue || React, Express/Node || Django/Python, SQL || PostgreSQL
 
