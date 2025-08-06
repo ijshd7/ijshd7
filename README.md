@@ -7,7 +7,7 @@
 ⚙ Preferred tech stack
 - For web UIs: Vue, React, NextJS, Nuxt
 - For iOS/Android: React Native, Flutter, Dart
-- For servers: Express/Node, Django/Python, Go
+- For servers: Express/Node, Django/Python, Go, Java
 - For databases: SQL, SQLite, PostgreSQL, Pocketbase, Supabase
 
 ---
