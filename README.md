@@ -64,7 +64,9 @@
 
 ---
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+-->
 
 <!--
 **ijshd7/ijshd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
