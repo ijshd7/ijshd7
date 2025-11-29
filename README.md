@@ -60,10 +60,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijshd7&theme=dark&background=000000&count_private=true&cache_seconds=1800)](https://github.com/ijshd7/github-readme-stats)
-
----
-
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 -->
