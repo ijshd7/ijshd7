@@ -60,7 +60,7 @@
 
 ---
 
-<img  width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ijshd7&theme=dracula" /> <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ijshd7&theme=dracula" />
+<img  width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ijshd7&theme=tokyonight" /> <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ijshd7&theme=tokyonight" />
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
