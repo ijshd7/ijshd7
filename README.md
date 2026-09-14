@@ -1,72 +1,74 @@
-## Hi there, I'm Isaiah 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/hero-dark.svg">
+  <img alt="Isaiah. Senior full-stack engineer in Missouri. I build whole products and finish them: terminal, web, desktop, browser extension, and game projects." src="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/hero-light.svg" width="100%">
+</picture>
 
-### About Me :
+I'm a senior full-stack engineer in Missouri. At work that means TypeScript end to end: Vue and Nuxt or React and Next in front, Node, Django, or Spring behind, Postgres, Supabase, and Redis underneath, shipped with Docker and Vercel.
 
-💬 I am a senior full stack developer from Missouri.
+On my own time I build complete things rather than demos, which is why the projects below are a CLI, an AI tool, a game, a browser extension, and a desktop app instead of five to-do lists.
 
----
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/algolia/algolia-original.svg" title="Algolia" alt="Algolia" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
-</div>
-
----
-
-[![GitHub Streak](http://github-readme-streak-stats-eight.vercel.app?user=ijshd7&theme=dark&background=000000&cache_seconds=1800)](https://git.io/streak-stats)
+More at [isaiahsherrill.com](https://isaiahsherrill.com), or find me on [LinkedIn](https://www.linkedin.com/in/isaiah-sherrill/).
 
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+Uncomment when you have something specific. A dated line beats a vague one,
+and an empty "currently" section is worse than none.
+
+> [!NOTE]
+> **September 2026:** building …, learning …, open to …
 -->
+
+## Show me
+
+- **[manaforge](https://github.com/ijshd7/manaforge)** turns one prompt into images, spritesheets, sounds, and lore for game projects. Self-hosted. Vue, FastAPI, PocketBase, Docker.
+- **[triple-trio](https://github.com/ijshd7/triple-trio)** is a Triple Triad–style card battler. Phaser 3, React, TypeScript.
+- **[contributum](https://github.com/ijshd7/contributum)** finds open-source repositories worth contributing to, from the terminal. Go.
+- **[collabora](https://github.com/ijshd7/collabora)** is a Chrome extension that cuts distraction and improves readability for people managing ADHD or cognitive load. JavaScript.
+- **[backgroundzero](https://github.com/ijshd7/backgroundzero)** removes image backgrounds on the desktop, with a side-by-side preview and PNG export. Electron, React, TypeScript.
+
+## Stack
+
+What I reach for, by layer.
+
+| | |
+|---|---|
+| Languages | TypeScript, JavaScript, Python, Java, Go, Dart, PHP |
+| Front end | Vue, Nuxt, React, Next.js, Angular, Tailwind, Sass, Vite, Storybook, Three.js |
+| Back end | Node.js, Express, Django, FastAPI, Spring |
+| Data | PostgreSQL, Supabase, PocketBase, Redis, SQLite, Algolia |
+| Ship and test | Docker, Vercel, DigitalOcean, Ubuntu, Playwright |
+| Beyond the browser | Electron, Chrome extensions, Flutter, Phaser, Raspberry Pi |
+
+<details>
+<summary>Also in the toolbox</summary>
+
+WordPress, Xcode, Android Studio.
+
+</details>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&include_all_commits=true&hide_border=true&card_width=420&bg_color=0d1117&title_color=e8a26a&icon_color=86c06c&text_color=e6edf3&ring_color=86c06c">
+  <img alt="Isaiah's GitHub stats: stars, commits, pull requests, issues, and contributions" src="https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&include_all_commits=true&hide_border=true&card_width=420&bg_color=ffffff&title_color=b3561f&icon_color=3f7a2f&text_color=1f2328&ring_color=3f7a2f" width="420">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ijshd7&layout=compact&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=420&bg_color=0d1117&title_color=e8a26a&text_color=e6edf3">
+  <img alt="Languages Isaiah commits in most, weighted by both repository count and code size" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijshd7&layout=compact&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=420&bg_color=ffffff&title_color=b3561f&text_color=1f2328" width="420">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ijshd7&bg_color=0d1117&color=8b949e&title_color=e8a26a&line=86c06c&point=e8a26a&area=true&area_color=86c06c&hide_border=true&radius=6&custom_title=Contributions%20over%20the%20last%20month">
+  <img alt="Line graph of Isaiah's daily contributions over the last month" src="https://github-readme-activity-graph.vercel.app/graph?username=ijshd7&bg_color=ffffff&color=57606a&title_color=b3561f&line=3f7a2f&point=b3561f&area=true&area_color=3f7a2f&hide_border=true&radius=6&custom_title=Contributions%20over%20the%20last%20month" width="100%">
+</picture>
 
 <!--
-**ijshd7/ijshd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Streak card, already tuned to the palette. Uncomment only while the numbers
+flatter you; a broken streak on a profile says more than no streak card.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=ijshd7&hide_border=true&card_width=420&background=0d1117&stroke=30363d&ring=86c06c&fire=e8a26a&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e8a26a&sideLabels=8b949e&dates=8b949e">
+  <img alt="Isaiah's contribution streak" src="https://github-readme-streak-stats-eight.vercel.app?user=ijshd7&hide_border=true&card_width=420&background=ffffff&stroke=d0d7de&ring=3f7a2f&fire=b3561f&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=b3561f&sideLabels=57606a&dates=57606a" width="420">
+</picture>
 -->
+
+<sub>This page is built from a small design system: two accents (clay for identity, moss for activity), a hand-drawn hero rendered to SVG so it looks the same on every device, and stat cards tuned to sit flat on GitHub's own canvas in light and dark. Source in <a href="https://github.com/ijshd7/ijshd7">this repo</a>.</sub>
