@@ -2,13 +2,7 @@
 
 ### About Me :
 
-💬 I am a full stack developer from Missouri.
-
-⚙ Preferred tech stack
-- For web UIs: Vue, React, NextJS, Nuxt
-- For iOS/Android: React Native, Flutter, Dart
-- For servers: Express/Node, Django/Python, Go, Java/Spring, C#/.NET
-- For databases: SQL, SQLite, PostgreSQL, Pocketbase, Supabase, MongoDB
+💬 I am a senior full stack developer from Missouri.
 
 ---
 
