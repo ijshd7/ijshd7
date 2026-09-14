@@ -3,7 +3,7 @@
   <img alt="Isaiah. Senior full-stack engineer in Missouri. I build whole products and finish them: terminal, web, desktop, browser extension, and game projects." src="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/hero-light.svg" width="100%">
 </picture>
 
-I'm a senior full-stack engineer in Missouri. At work that means TypeScript end to end: Vue and Nuxt or React and Next in front, Node, Django, or Spring behind, Postgres, Supabase, and Redis underneath, shipped with Docker and Vercel.
+I'm a senior full-stack engineer in Missouri.
 
 On my own time I build complete things rather than demos, which is why the projects below are a CLI, an AI tool, a game, a browser extension, and a desktop app instead of five to-do lists.
 
