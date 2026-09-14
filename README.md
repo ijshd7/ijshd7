@@ -3,8 +3,6 @@
   <img alt="Isaiah. Senior full-stack engineer in Missouri. I build whole products and finish them: terminal, web, desktop, browser extension, and game projects." src="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/hero-light.svg" width="100%">
 </picture>
 
-I'm a senior full-stack engineer in Missouri. I like building things from end to end.
-
 More at [isaiahsherrill.com](https://isaiahsherrill.com), or find me on [LinkedIn](https://www.linkedin.com/in/isaiah-sherrill/).
 
 <!--
