@@ -140,7 +140,7 @@ def build(theme):
     tag2, _ = text_path(body, kb, "I build whole products and finish them.", 26, 44, 242)
 
     kinds = [("terminal", "Terminal"), ("web", "Web"), ("desktop", "Desktop"),
-             ("extension", "Extension"), ("game", "Game")]
+             ("extension", "Extensions"), ("game", "Games")]
     centers = [714, 816, 918, 1020, 1122]
     groups = []
     for i, ((kind, label), cx) in enumerate(zip(kinds, centers)):
