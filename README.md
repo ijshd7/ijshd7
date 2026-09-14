@@ -46,22 +46,22 @@ WordPress, Xcode, Android Studio.
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&include_all_commits=true&hide_border=true&card_width=420&bg_color=0d1117&title_color=e8a26a&icon_color=86c06c&text_color=e6edf3&ring_color=86c06c">
-  <img alt="Isaiah's GitHub stats: stars, commits, pull requests, issues, and contributions" src="https://github-readme-stats.vercel.app/api?username=ijshd7&show_icons=true&include_all_commits=true&hide_border=true&card_width=420&bg_color=ffffff&title_color=b3561f&icon_color=3f7a2f&text_color=1f2328&ring_color=3f7a2f" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/stats-dark.svg">
+  <img alt="Isaiah's GitHub stats: stars, commits, pull requests, issues, and contributions" src="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/stats-light.svg" width="420">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ijshd7&layout=compact&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=420&bg_color=0d1117&title_color=e8a26a&text_color=e6edf3">
-  <img alt="Languages Isaiah commits in most, weighted by both repository count and code size" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijshd7&layout=compact&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=420&bg_color=ffffff&title_color=b3561f&text_color=1f2328" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/langs-dark.svg">
+  <img alt="Languages Isaiah commits in most, weighted by both repository count and code size" src="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/langs-light.svg" width="420">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ijshd7&bg_color=0d1117&color=8b949e&title_color=e8a26a&line=86c06c&point=e8a26a&area=true&area_color=86c06c&hide_border=true&radius=6&custom_title=Contributions%20over%20the%20last%20month">
-  <img alt="Line graph of Isaiah's daily contributions over the last month" src="https://github-readme-activity-graph.vercel.app/graph?username=ijshd7&bg_color=ffffff&color=57606a&title_color=b3561f&line=3f7a2f&point=b3561f&area=true&area_color=3f7a2f&hide_border=true&radius=6&custom_title=Contributions%20over%20the%20last%20month" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/activity-dark.svg">
+  <img alt="Line graph of Isaiah's daily contributions over the last month" src="https://raw.githubusercontent.com/ijshd7/ijshd7/HEAD/assets/activity-light.svg" width="100%">
 </picture>
 
 <!--
-Streak card, already tuned to the palette. Uncomment only while the numbers
-flatter you; a broken streak on a profile says more than no streak card.
+Streak card, tuned to the palette and served from your own Vercel instance.
+Uncomment only while the numbers flatter you.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=ijshd7&hide_border=true&card_width=420&background=0d1117&stroke=30363d&ring=86c06c&fire=e8a26a&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e8a26a&sideLabels=8b949e&dates=8b949e">
@@ -69,4 +69,4 @@ flatter you; a broken streak on a profile says more than no streak card.
 </picture>
 -->
 
-<sub>This page is built from a small design system: two accents (clay for identity, moss for activity), a hand-drawn hero rendered to SVG so it looks the same on every device, and stat cards tuned to sit flat on GitHub's own canvas in light and dark. Source in <a href="https://github.com/ijshd7/ijshd7">this repo</a>.</sub>
+<sub>This page is built from a small design system: two accents (clay for identity, moss for activity), a hand-drawn hero rendered to SVG so it looks the same on every device, and stat cards rendered daily by a workflow in this repo so they never depend on someone else's server. Source in <a href="https://github.com/ijshd7/ijshd7">this repo</a>.</sub>
