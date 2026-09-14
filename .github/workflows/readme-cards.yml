@@ -1,0 +1,82 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily, off the top of the hour to dodge the cron rush
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      # Stats and top-languages come from the maintained successor of
+      # github-readme-stats, rendered here instead of fetched from a shared
+      # instance. fail_on_error + continue-on-error means an API rate limit
+      # leaves the previous good SVG in place rather than committing an error card.
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: stats
+          options: 'username=ijshd7&show_icons=true&include_all_commits=true&hide_border=true&card_width=420&bg_color=0d1117&title_color=e8a26a&icon_color=86c06c&text_color=e6edf3&ring_color=86c06c'
+          path: assets/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: stats
+          options: 'username=ijshd7&show_icons=true&include_all_commits=true&hide_border=true&card_width=420&bg_color=ffffff&title_color=b3561f&icon_color=3f7a2f&text_color=1f2328&ring_color=3f7a2f'
+          path: assets/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: 'username=ijshd7&layout=compact&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=420&bg_color=0d1117&title_color=e8a26a&text_color=e6edf3'
+          path: assets/langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: 'username=ijshd7&layout=compact&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=420&bg_color=ffffff&title_color=b3561f&text_color=1f2328'
+          path: assets/langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      # The activity graph is ours: one GraphQL call, rendered in the same
+      # palette. Standard library only, so no dependency install step.
+      - name: Activity graph (dark + light)
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ijshd7
+        run: python3 assets/activity.py
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update README cards"
+          git push
